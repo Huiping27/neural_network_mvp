@@ -29,5 +29,11 @@ To run this project locally, follow these steps:
    git clone https://github.com/Huiping27/neutral_network_mvp.git
    cd neutral_network_mvp
 
+## Contributing
+Contributions are welcome! If you have any ideas, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
 ## Authur
 Huiping Li
