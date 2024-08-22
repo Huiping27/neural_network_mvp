@@ -26,7 +26,6 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Huiping27/neutral_network_mvp.git
    cd neutral_network_mvp
 
 ## Contributing
