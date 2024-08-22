@@ -24,7 +24,7 @@ The project is composed of two main parts:
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
+1. **Start the repository:**
    ```bash
    cd neutral_network_mvp
 
